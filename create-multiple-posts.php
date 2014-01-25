@@ -1,3 +1,5 @@
+<?php
+
 function createMultiEpisode($start_episode, $end_episode, $date, $anime_id) {
 	
 	// get anime information
@@ -70,3 +72,4 @@ function createMultiEpisode($start_episode, $end_episode, $date, $anime_id) {
 	}
 
 }
+?>
